@@ -1,0 +1,10 @@
+// src/components/Button.module.scss
+.btn {
+  background-color: #eee;
+  color: #444;
+  border: 0;
+  padding: 10px;
+  &:hover {
+    background-color: aquamarine;
+  }
+}
